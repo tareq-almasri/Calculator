@@ -1,13 +1,19 @@
 header {
-    background-color: #FEB739;
-    height: 150px;
-    display: grid;
-    place-items: center;
-    font-size: 3rem;
-    font-weight: bold;
+  background-color: #feb739;
+  height: 150px;
+  display: grid;
+  place-items: center;
+  font-size: 3rem;
+  font-weight: bold;
 }
 
 .box {
-    justify-content: center;
-    align-items: center;
+  justify-content: center;
+  align-items: center;
+}
+input {
+  margin: 0 8px;
+}
+span {
+    font-weight: bolder;
 }
