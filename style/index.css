@@ -1,0 +1,13 @@
+header {
+    background-color: #FEB739;
+    height: 150px;
+    display: grid;
+    place-items: center;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.box {
+    justify-content: center;
+    align-items: center;
+}
